@@ -1,0 +1,104 @@
+
+SYSTEMS PROGRAMMER           
+Class Code:       1455
+Open Date:  09-16-16
+REVISED: 10-04-16
+(Exam Open to All, including Current City Employees)
+
+ANNUAL SALARY
+  
+$89,575 to $130,980; $97,071 to $141,921; and $100,704 to $121,772
+The salary in the Department of Water and Power is $95,964 to $119,245; $103,523 to $128,599; and $114,422 to $142,192
+
+NOTES:
+
+1. Candidates from the eligible list are normally appointed to vacancies in the lower pay grade positions.
+2. For information regarding reciprocity between the City of Los Angeles departments and LADWP, go to http://per.lacity.org/Reciprocity_CityDepts_and_DWP.pdf.
+3. The current salary range is subject to change. You may confirm the starting salary with the hiring department before accepting a job offer.
+
+DUTIES
+
+A Systems Programmer evaluates, develops, maintains, implements, and modifies operating systems, hardware, middleware, software, storage, and networking in a business applications environment; performs hardware-software studies; designs and implements systems architecture; analyzes systems problems and optimizes systems performance; performs systems upgrades; follows Information Technology Infrastructure Library (ITIL) and security best practices for incident, change and release management, and all aspects of network and server operations; provides technical assistance to other data processing personnel and user divisions or departments; may supervise and direct the work of employees engaged in such activities; applies sound supervisory principles and techniques in building and maintaining an effective work force; and fulfills equal employment opportunity responsibilities.
+
+REQUIREMENTS/MINIMUM QUALIFICATIONS 
+
+1. A bachelor's degree from an accredited four-year college or university; and two (2) years of full-time paid systems implementation experience in either: 1) installing, configuring, maintaining, performance tuning, patching, and securing enterprise level servers; or 2) planning, configuring, and implementing  enterprise systems and applications operating over large computing networks serving local and remote facilities; or 3) preparing programs by analyzing specifications developed by systems professionals and determining computer processing requirements, systems and/or programming flowcharts, code programs, and software solutions; or
+2. Two years of full-time paid experience with the City of Los Angeles as a Programmer Analyst; or
+3. Four years of full-time paid systems implementation experience with the City of Los Angeles as a Systems Analyst with experience in either 1) installing, configuring, maintaining, performance tuning, patching, and securing enterprise level servers; or 2) planning, configuring, and implementing enterprise systems and applications operating over large computing networks serving local and remote facilities.
+
+PROCESS NOTES
+
+1. Additional full-time paid experience as described above in Requirement No. 1 may be substituted on a year for year basis for the required bachelor's degree noted in Requirement No.1. One academic year is equivalent to 30 semester or 45 quarter units.
+2. Some positions may require a valid California driver's license. Candidates may not be eligible for appointment to these positions if their record within the last 36 months reflects three or more moving violations and/or at-fault accidents, or a conviction of a major moving violation (such as DUI).
+
+SELECTIVE CERTIFICATION
+
+In accordance with Charter Section 1010 (b) and Civil Service Rule 5.31, selective certification will be used for some positions that require special skills and/or training in one or more of the following areas.  Only persons who receive a passing score on the pass/fail selective certification multiple-choice test(s) in selective certification areas #1 through #4 and/or submit a Certificate of Completion for any of the selective certifications listed in areas #5 through #11 may be considered for appointment to fill such positions.
+
+Candidates who possess experience in one or more areas of #1 through #4 below may self-schedule themselves for a pass/fail multiple-choice test in each area that they wish to be considered. Each test will assess the candidates' knowledge of the area. However, only candidates who receive a passing score on the pass/fail selective certification multiple-choice test may be considered for positions requiring such experience.  
+1. Two years of full-time paid experience installing or maintaining mainframe systems components such as Z/OS, DB2 and CICS.
+2. Two years of full-time paid experience installing or maintaining administering operating systems such as VMWARE and AIX and storage systems such as SAN or NAS.
+3. Experience with Enterprise Resource Planning (ERP) packages, such as AMS Advantage Financial 3.X, SAP or Oracle Financials.
+4. One year full-time paid experience installing or administering IBM's Websphere Tomcat Java Application Server, Oracle WebCenter, Oracle's Application Server, or PeopleSoft Application Server. 
+
+Selective certifications #5 through #11 below require a Certificate of Completion for each one that candidates select at the time of filing. A copy of the Certificate of Completion must be submitted at the time of filing. The certificate must be attached to the on-line application BEFORE the application is submitted. If the certificate is attached AFTER the on-line application has been submitted, it will not be available to the City and applicants WILL NOT be credited with having submitted the certificate. Applicants who fail to submit the certificate at the time of filing by not attaching it to the on-line application will not be considered for this part of selective certification.
+5. Certification as a Sun Certified System Administrator for the Solaris Operating System.
+6. Certification as a Microsoft Certified System Engineer (MCSE) on Windows server platform.
+7. Certification as an Oracle 9i/10g/11g or latest version or as an Oracle Database 10g/11gor latest version of Administrator Certified Master. 
+8. Certification as a Cisco Certified Network Professional (CCNP) or as a Cisco Certified Internetwork Expert (CCIE).
+9. Certification as a Cisco Certified Security Professional or as a Cisco Certified Internetwork Expert in Security.
+10. Certification as a Checkpoint Certified Security Administrator (CCSA) or as a Checkpoint Certified Security Expert
+(CCSE).
+11. Certification as a Certified Information Systems Security Professional (CISSP).
+
+WHERE TO APPLY
+
+Applications and Certificate(s) of Completion will only be accepted on-line. When you are viewing the on-line job bulletin of your choice, simply scroll to the top of the page and select the "Apply" icon. On-line job bulletins are also available at https://www.governmentjobs.com/careers/lacity for Open Competitive Examinations and at https://www.governmentjobs.com/careers/lacity/promotionaljobs for Promotional Examinations. 
+
+NOTE:
+
+Applicants are urged to apply early to ensure you have time to resolve any technical issues you may encounter.
+
+APPLICATION DEADLINE
+
+This examination may close without prior notice at any time after a sufficient number of applications have been received. For administrative purposes, filing may close periodically and reopen periodically.
+
+In accordance with Civil Service Rule 4.2, all applicants who apply may not be tested in this examination. To meet anticipated hiring needs, only a limited number of qualified applicants will be invited to participate in the multiple-choice test in the following order: 1) Los Angeles City Promotional applicants who meet the minimum requirements. You must have received a regular appointment to a City position or be on a reserve list to apply for this examination as a promotional candidate; 2) Applicants currently employed by the City of Los Angeles on a part-time or exempt basis who meet the minimum requirements; 3) Remaining applicants who meet the minimum requirements in sufficient numbers to meet hiring needs in the order that applications were received. Applications submitted during each filing period will be kept on file for two years from the date of filing in the event that additional applicants need to be tested to meet hiring needs. 
+
+
+SELECTION PROCESS
+
+After meeting minimum qualifications, and in accordance with Rule 4.2 as stated above, candidates will be scheduled for the following:
+
+Examination Weight: Multiple-Choice Test . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100% 
+
+The examination will consist entirely of a weighted multiple-choice test administered on a computer. In the multiple-choice test the following competencies may be evaluated: Analytical Ability, Learning Ability, Teamwork, Project Management, and Job Knowledge including knowledge of: capabilities, uses, characteristics, and limitations of servers - virtual and physical, computers and peripheral equipment, operating software systems (Windows, Linux, Unix, MacOS, etc.), software such as assemblers, generators, subroutine libraries, compilers and vendor written application programs; programming languages such as C/C++, Java, .NET - VB, ASP, MVC, C#, PHP, Perl, Hadoop, or command languages for distributed and large scale computers and/or network and associated programming aids; security related software, application security software, network security, identity management and control software; Local Area Networks (LANs), Wide Area Networks (WANs), Metropolitan and cloud networks, and IP Protocols; Storage Area Network (SAN) and Network Attached Storage (NAS); commonly used operating systems; network protocols commonly used for communication among network devices; cloud computing and usage monitoring; system optimization techniques and performance tuning; uses and development of systems and program flow charts and network diagrams; storage, backup and disaster recovery procedures, and other business resumption and data protection technologies to ensure maximum accessibility; terminology and factors necessary to interpret proposed systems and procedures developed by analysts and developers to prepare logic flowcharts and computer instructions that utilize storage and processing time efficiently; methods to prepare documentation, procedures, tests, corrections, and take other steps necessary for the planned implementation and modification of programs; methods to identify security exposures and provide mitigation controls as they apply to information and management information systems including software distribution and patch management in cyber security, software and threats; techniques and tools necessary to support internet, intranet, and cloud application environments; and other necessary skills, knowledge, and abilities.
+
+Additional information can be obtained by going to http://per.lacity.org/index.cfm?content=jobanalyses and clicking on Competencies under Systems Programmer.
+
+The weighted multiple-choice test will be administered on a computer during a single half-day session. Candidates invited to participate in the weighted multiple-choice test will be required to self-schedule themselves for a specific date, time, and location. At the same time, candidates may also self-schedule themselves for any of the selective certification pass/fail multiple-choice tests listed in selective certification areas #1 through #4 if they believe they possess such experience. The testing locations will be available throughout the Los Angeles Metropolitan area and within and outside the state of California. It is anticipated that the first administration of the weighted multiple-choice test and pass/fail selective certification test(s) will be held MONDAY, DECEMBER 5, 2016 THROUGH MONDAY, DECEMBER 12, 2016. Candidates will receive an e-mail from the City of Los Angeles outlining the specific steps on how to self-schedule themselves, and will be required to do so by the date provided in the instructions sent to them via email. Candidates who do not self-schedule themselves for the weighted multiple-choice test within the required time will not be considered further in this examination. Additionally, candidates who do not self-schedule themselves for any of the selective certification pass/fail multiple-choice tests will not be considered further for positions requiring this experience. 
+
+NOTES:	  
+
+1. This examination is based on a validation study, and as provided by Civil Service Commission Rule 4.20, the multiple-choice test will not be subject to candidate inspection.
+2. You may take this examination only once every 365 days. Your name may be removed from the eligible list after six (6) months.
+3. As a covered entity under the Fair Employment and Housing Act and Title II of the Americans with Disabilities Act, the City of Los Angeles does not discriminate on the basis of disability and upon request, will provide reasonable accommodations to ensure equal access to its programs, services, and activities.  To request a disability accommodation, please complete the Disability Accommodation Form within 14 calendar days of the submittal of the City application.  The Disability Accommodation Form can be obtained at http://per.lacity.org/exams/verify_disability.pdf.
+4. In conjunction with Civil Service Rules, applicants who are currently eligible City employees or are on a reserve list will be considered Promotional candidates while all other applicants will be considered Open Candidates. 
+5. The promotional list will ordinarily be used ahead of the open competitive list. However, if open competitive candidates receive a higher score, without military credits, than the highest available promotional candidate, after adding 0.25 of a point seniority credit for each year of service, the Civil Service Commission, upon request of the appointing authority, may approve certification of such open competitive candidates ahead of the promotional candidates.
+6. Applications are accepted subject to review to ensure that minimum qualifications are met. Candidates may be disqualified at any time if it is determined that they do not possess the minimum qualifications stated on this bulletin.
+7. A final average score of 70% or higher is required to be placed on the eligible list.
+8. In accordance with Civil Service Rule, Sec. 4.24, review periods may be combined. Candidates in the examination process may file protests as provided in Sec. 4.20, 4.22 and 4.23 as applicable and within the required time frame; however, the Personnel Department may respond to and resolve protests prior to the establishment of the eligible list.
+9. Your rank on the employment list may change as scores of candidates from other administrations of this examination are merged onto one list.
+
+NOTICE:
+
+If you receive and accept an offer of employment to a regular position with the City of Los Angeles, your employee benefit coverage (including health and dental coverage as well as life insurance) will commence approximately six weeks after your original regular appointment. Not all positions in the City receive benefit coverage; you should inquire regarding the availability of employee benefits prior to accepting a position.
+
+THIS EXAMINATION IS TO BE GIVEN BOTH ON AN
+INTERDEPARTMENTAL PROMOTIONAL AND AN OPEN COMPETITIVE BASIS
+
+The City of Los Angeles does not discriminate on the basis of race, religion, national origin, sex, age, marital status, sexual orientation, gender identity, gender expression, disability, creed, color, ancestry, medical condition (cancer), or Acquired Immune Deficiency Syndrome.
+Class Code 1455 CONT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  09-16-16 REV 10-04-16
+
+AN EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+

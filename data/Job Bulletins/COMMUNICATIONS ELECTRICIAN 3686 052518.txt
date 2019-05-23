@@ -1,0 +1,110 @@
+COMMUNICATIONS ELECTRICIAN
+
+Class Code:       3686
+Open Date:  05-25-18
+ (Exam Open to All, including Current City Employees)
+
+ANNUAL SALARY
+
+$90,645 (flat-rated)
+The salary in the Department of Water and Power is $94,899 to $100,182 and $106,174 (flat-rated). A shift differential is paid for the positions requiring night work. Some positions with the Department of Water and Power may require permanent assignment outside the Southern California area.
+
+NOTES:
+
+1. For information regarding reciprocity between City of Los Angeles departments and LADWP, go to: http://per.lacity.org/Reciprocity_CityDepts_and_DWP.pdf.
+2. Annual salary is at the start of the pay range. The current salary range is subject to change. Please confirm the starting salary with the hiring department before accepting a job offer. 
+3. Candidates from the eligible list are normally appointed to vacancies in the lower pay grade positions.
+
+DUTIES
+
+A Communications Electrician does skilled work in the maintenance, repair, installation, configuration and programming of communications systems and equipment such as microwave radio, conventional and trunking two-way radio, VoIP telephony, SONET, SCADA, data networks, radio communications transmitters/receivers and systems, PBX telephone switches, multiplexing, audio and video, CCTV and CAD.
+
+REQUIREMENTS/MINIMUM QUALIFICATIONS
+
+1. Four years of full-time paid experience in maintenance, repair, and installation of any of a wide variety of electronics and communications systems including video, conventional and trunking two-way radio, microwave radio, telephone systems, monitoring systems, public address, data networks, video and access systems including programming, configuration or troubleshooting of communications systems; or
+2. Two years of full-time paid experience of the type specified in Requirement #1, and
+a. Completion of a certificate program or associate degree program in electronics technology, telecommunications, or computer science at an accredited college or trade school; or
+b. Successful completion of a U.S. military electronics technical course of 24 weeks or longer within the last 10 years.
+
+PROCESS NOTES
+
+1. In addition to answering the regular City application supplemental questions, each applicant is required to complete the Communications Electrician Qualifications Questionnaire at the time of filing. The Communications Electrician Qualifications Questionnaire is located within the Supplemental Questions section of the City application. Applicants who fail to complete the Qualifications Questionnaire will not be considered further in the examination and their application will not be processed.
+2. Some positions may require a valid California driver's license. Candidates may not be eligible for appointment to these positions if their record within the last 36 months reflects three or more moving violations and/or at-fault accidents, or a conviction of a major moving violation (such as DUI).
+3. Please note that qualifying education must be from a college, university, or trade school accredited by a City of Los Angeles recognized agency. A list of approved accrediting agencies can be found at http://per.lacity.org/Accredited%20Institutions%2008-21-08.pdf.
+4. Candidates completing the exam process will be contacted by the Personnel Department to provide required proof of qualifying certificate program or associate degree.
+
+SELECTIVE CERTIFICATION
+
+1. In accordance with Charter Section 1010 (b) and Civil Service Rule 5.31, selective certification will be used for some positions that require special skills and/or training in one or more of the following areas. Only persons possessing the following may be considered for appointment to fill such positions:
+a. A certification in Cisco or HP Networking (CCNA, CCDA, CCDE, CCDP, CCNP, CCIE, HP AIS, HP ASE, HP Master ASE), and two years of experience in the installation and configuration of data network switches, routers and addressable nodes; or
+b. Skills and/or training in radio, fiber-optics and microwave, as outlined in the Qualifications Questionnaire; or
+c. Certification(s) in Nortel Meridian Exchange (Option xx PBX), Multimedia Communication Server (MCS 5100), IP Communication Server Exchange (CS 1000 IP PBX), Nortel Small Business Exchange (BCM and Norstar), Nortel Contact Center (Symposium), or Nortel Messaging (Call Pilot Voice Mail); or
+d. CompTIA Network+ Certification; or
+e. Electronics Technicians Association, International (ETA-I) Fiber Optics Technician (FOT) Certification; or
+f. A valid General Radio Telephone Operator's license issued by the Federal Communications Commission.
+2. Selective certifications 1A, 1C, 1D, 1E, and 1F require a Certificate of Completion or valid license. The certificate or license must be attached to the on-line application BEFORE the application is submitted. If the certificate or license is attached AFTER the on-line application has been submitted, it will not be available to the City and applicants WILL NOT be credited with having submitted the certificate or license. Applicants who fail to submit the certificate or license at the time of filing by attaching it to the on-line application will not be considered for this part of selective certification.
+
+WHERE TO APPLY
+
+Applications will only be accepted on-line. When you are viewing the on-line job bulletin of your choice, simply scroll to the top of the page and select the "Apply" icon. On-line job bulletins are also available at https://www.governmentjobs.com/careers/lacity for Open Competitive Examinations.
+
+
+NOTES:
+
+1. Applicants are urged to apply early to ensure you have time to resolve any technical issues you may encounter.
+2. All application materials must be completed by the time of filing for you to be considered a candidate in this examination.
+
+APPLICATION DEADLINE
+
+Applications must be received by THURSDAY, JUNE 7, 2018.
+
+In accordance with Civil Service Rule 4.2, all applicants who apply may not be tested in this examination. To meet anticipated hiring needs, only a limited number of qualified applicants may be invited to participate in the written test in the following order: 1) Applicants currently employed by the City of Los Angeles on a part-time or exempt basis who meet the minimum requirements; 2) Remaining applicants who meet the minimum requirements in sufficient numbers to meet hiring needs in the order that applications were received. Applications submitted during the filing period may be kept on file in the event that additional applicants need to be tested to meet hiring needs.
+
+QUALIFICATIONS REVIEW
+
+Should a large number of qualified candidates file for this examination, each candidate's qualifications for the position of Communications Electrician may be evaluated based on the candidate's responses to the Qualifications Questionnaire. Those candidates considered possessing the greatest likelihood of successfully performing the duties of a Communications Electrician based solely on the information submitted for qualifications review will continue in the selection process.
+
+SELECTION PROCESS
+
+Examination Weights:	Written . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Qualifying
+	Interview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100%
+
+The examination will consist of a qualifying written test and an interview. In the qualifying written test, which will consist of multiple-choice questions, the following competencies may be evaluated: safety focus; job knowledge, which includes knowledge of: principles of electricity and electronic theory including DC/AC; common sources of trouble in communications systems and various communications system problems; methods in installing, servicing, rebuilding, and repairing communications systems; electronic test equipment, tools, and materials; radio communication systems; subnet masks; proper safety use and care of hand and power tools including portable power tools; and the ability to understand, prepare, and work from communications plans, schematic, and diagrams; and other necessary skills, knowledge, and abilities.
+
+Candidates will be notified later by e-mail of the time and location of the written test which will be held on SATURDAY, AUGUST 11, 2018 in Los Angeles.
+
+Passing Score for the Qualifying Written Test
+
+The passing score for the qualifying test will be determined by Personnel Department staff after the qualifying written test is administered. Consideration will be given to the number of candidates taking the test and the existing and anticipated number of vacancies, such that there are a sufficient number of eligible on the list to satisfy current and future vacancies for the next two years. Therefore, the passing score for the qualifying multiple-choice written test may be set either above or below 70%.
+
+Candidates must achieve a passing score on the qualifying written test in order to be called for the interview.
+
+The examination score will be based entirely on the interview. In the interview, the following competencies may be evaluated: judgment and decision making; safety focus; initiative; customer service; teamwork; oral communication; and job knowledge, which includes knowledge of: principles of electricity and electronic theory including DC/AC; common sources of trouble in communications systems and various communications system problems; methods in installing, servicing, rebuilding, and repairing communications systems; electronic test equipment, tools, and materials; radio communication systems; basic computer programs; radio communication systems; subnet masks; proper safety use and care of hand and power tools including portable power tools; and the ability to: prepare work records and technical documentation; understand, prepare, and work from communications plans, schematic, and diagrams; mount equipment on towers and vehicles; test and adjust receivers and transmitters; align antennas; differentiate wire and cable colors; remove and modify connections; identify faults in circuits or systems; use computer and computer systems including hardware and software; monitor the reliability of incoming and outgoing signals; use and interpret network testers and protocol analyzers; test and adjust RF Microwave equipment; and other necessary skills, knowledge, and abilities.
+
+Additionally, the interview board will consider the information in the candidate's Qualifications Questionnaire in their overall evaluation of the candidates' qualifications. Candidates may expect the interview panel members to discuss this information during the interview. Qualifications Questionnaires submitted by candidates on the day of the interview will not be accepted for presentation to the interview board.
+
+Additional information can be obtained by going to http://per.lacity.org/index.cfm?content=jobanalyses and clicking on Competencies under Communications Electrician.
+
+Candidates will be notified later by e-mail of the date, time, and location of the interview, which will be held in Los Angeles.
+
+NOTES:
+
+1. This examination is based on a validation study.
+2. Based on City policy, before being hired in one of these positions, you may be required to undergo a drug and alcohol-screening test.
+3. As a covered entity under the Fair Employment and Housing Act and Title II of the Americans with Disabilities Act, the City of Los Angeles does not discriminate on the basis of disability and upon request, will provide reasonable accommodations to ensure equal access to its programs, services, and activities. To request a disability accommodation, please complete the Disability Accommodation Form within 14 calendar days of the submittal of the City application. The Disability Accommodation Form can be obtained at http://per.lacity.org/exams/verify_disability.pdf.
+4. Applications are accepted subject to review to ensure that minimum qualifications are met. Candidates may be disqualified at any time if it is determined that they do not possess the minimum qualifications stated on this bulletin.
+5. A final average score of 70% on the interview portion of the examination is required to be placed on the eligible list.
+
+Notice:
+
+If you receive and accept an offer of employment to a regular position with the City of Los Angeles, your employee benefit coverage (including health and dental coverage as well as life insurance) will commence approximately six weeks after your original regular appointment. Not all positions in the City receive benefit coverage; you should inquire regarding the availability of employee benefits prior to accepting a position.
+
+THIS EXAMINATION IS TO BE GIVEN
+ONLY ON AN OPEN COMPETITIVE BASIS
+
+The City of Los Angeles does not discriminate on the basis of race, religion, national origin, sex, age, marital status, sexual orientation, gender identity, gender expression, disability, creed, color, ancestry, medical condition (cancer), or Acquired Immune Deficiency Syndrome.
+Class Code 3686 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 05-25-18
+
+AN EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+For additional information and FAQs regarding the City's hiring process, please go to: http://per.lacity.org/index.cfm?content=employmenttestingprocess 
+

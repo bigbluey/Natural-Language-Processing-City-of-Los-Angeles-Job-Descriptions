@@ -1,0 +1,149 @@
+SYSTEMS ANALYST
+
+Class Code: 1596
+Open Date: 10-27-17
+(Exam Open to All, including Current City Employees)
+
+ANNUAL SALARY
+
+$68,611 to $100,307
+The salary in the Department of Water and Power is $70,908 to $88,092 and $83,770 to $104,065.
+
+NOTES:
+
+1. Candidates from the eligible list are normally appointed to vacancies in the lower pay grade positions.  
+2. Annual salary is at the start of the pay range. The current salary range is subject to change. Please confirm the starting salary with the hiring department before accepting a job offer.
+3. For information regarding reciprocity between the City of Los Angeles departments and LADWP, go to http://per.lacity.org/Reciprocity_CityDepts_and_DWP.pdf.
+
+
+DUTIES
+
+A Systems Analyst analyzes procedures, methods and operations of computer-based information systems; designs, implements, and recommends information systems to improve the efficiency and economy of City operations; performs cost benefit and feasibility analyses related to the modification of existing computer-based information systems, the maintenance and support of information systems, or the implementation of new computer-based systems; accesses and analyzes information from automated files using high-level retrieval languages.
+
+REQUIREMENTS/MINIMUM QUALIFICATIONS
+
+1. Graduation from an accredited four-year college or university with a major in Computer Science, Information Systems, or Geographical Information Systems; or
+2. Graduation from an accredited four-year college or university and two years of full-time paid experience in a class at the level of Management Assistant which provides experience in:
+a. the development, analysis, implementation or major modification of new or existing computer-based information systems or relational databases; or
+b. performing cost benefit, feasibility and requirements analysis for a large-scale computer-based information system; or
+c. performing system implementation and support activities including software and hardware acquisition, installation, modifications to system configuration, system and application upgrade installation; or
+3. Two years of full-time paid experience as a Systems Aide with the City of Los Angeles; and
+a. Satisfactory completion of four courses, of at least three semester or four quarter units each, in Information Systems, Systems Analysis, or a closely related degree program, professional designation, or certificate program from an accredited college or university.
+b. At least three of the courses must be from the core courses required in the program, and one course may be from either the required core courses or the prescribed elective courses of the program.  A course in systems analysis and design is especially desired, but not required. 
+
+PROCESS NOTES
+
+1. Some positions may require a valid California driver's license. Candidates may not be eligible for appointment to these positions if their record within the last 36 months reflects three or more moving violations and/or at-fault accidents, or a conviction of a major moving violation (such as DUI).
+2. Please note that qualifying education must be from a college or university accredited by a City of Los Angeles recognized agency. A list of approved accrediting agencies can be found at http://per.lacity.org/Accredited%20Institutions%2008-21-08.pdf.
+3. Applicants qualifying under Requirement #2 above must identify in the Supplemental Questions section of the application the specific projects that provide qualifying experience. The minor application, modification or use of existing systems is not considered to be qualifying experience.
+4. Four years of full-time paid experience in any of the areas noted in Requirement #2 above may be substituted for the required degree only. The two years' experience in the areas noted is still required to fully meet Requirement #2.
+5. Applicants qualifying under Requirement #3 above must list in the Supplemental Question section of the application the name of the school attended, course titles, number of units, completion dates, and grades. General education courses will not meet the education requirement outlined in Requirement #3. A copy of the offering institution's catalog program description and course list must be attached to the on-line application and submitted to the Personnel Department at the time of filing. Failure to submit the requested documents may result in processing delays and/or disqualification.
+6. Candidates completing the exam process will be contacted by the Personnel Department to provide required proof of qualifying four-year degree.
+
+
+SELECTIVE CERTIFICATION
+
+In accordance with Charter Section 1010 (b) and Civil Service Rule 5.31, selective certification will be used for some positions that require special skills and/or training. For such positions, only applicants possessing the specific professional certification(s) at the time of filing may be considered. Some positions will require a professional industry certification(s) in one or more of the following:
+
+1. Adobe Dreamweaver CS6 ACE
+2. Adobe Photoshop CS5 or CS6 ACE
+3. ArcGIS Desktop Developer Associate
+4. BMC Certified Administrator
+5. Cisco Certified Entry Networking Technician (CCENT) 
+6. Cisco Certified Network Associate (CCNA)
+7. Citrix Certified Associate - Virtualization (CCA-V)
+8. CompTIA A+ 
+9. Delphi Developer Certification
+10. Enterprise Administration Associate 
+11. Enterprise System Design Associate
+12. Enterprise Geodata Management Associate
+13. Enterprise Geodata Management Professional
+14. HP Service Manager 
+15. IBM Certified Solutions Expert 
+16. IBM Certified Operator
+17. IBM Certified Systems Administrator
+18. JAVA SE Programmer Certification
+19. Linux Foundation Certified System Administrator  (LFCS) 
+20. Linux Foundation Certified Engineer (LFCE)
+21. MCTS: Administering and Deploying System Center 2012 Configuration Manager
+1. 
+22. Microsoft Certified Solutions Associate (MCSA)
+23. Microsoft Certified Solutions Developer (MCSD) 
+24. Microsoft Certified Solutions Expert (MCSE)
+25. Microsoft Certified Systems Administrator (MCSA) 
+26. Microsoft Certified Systems Engineer (MCSE)
+27. Microsoft Technology Associate (MTA)
+28. Microsoft Technology Associate: IT Infrastructure
+29. Microsoft: Core Solutions of Microsoft SharePoint Server 2013
+30. Microsoft: Programming in HTML5 with JavaScript and CSS3
+31. Microsoft: Programming in C#
+32. Microsoft: Developing ASP.NET MVC Web Applications
+33. Microsoft: Windows Server 2008 Active Directory, Configuring 
+34. Microsoft: Windows Server 2008, Server Administrator
+35. Microsoft: Windows 7, Configuring
+36. Microsoft: Windows 7, Enterprise Desktop Support Technician
+37. Microsoft: Installing and Configuring Windows 10
+38. Microsoft: Installation, Storage, and Compute with Windows Server 2016
+39. Microsoft: Database Fundamentals
+40. Certified Novell Administrator (CNA)
+41. Oracle E-Business Suite R12: E-Business Essentials
+42. Oracle Database SQL Certified Associate 
+43. Red Hat Certified System Administrator (RHCSA)
+44. Unix System Administration
+45. VMware Certified Associate 6 - Data Center Virtualization
+46. VMware Certified Professional 6.5 - Data Center Virtualization
+		
+Applicants must attach a copy of the certificate(s) to the on-line application at the time of filing. The certificate(s) must be attached to the on-line application BEFORE the application is submitted. If the certificate(s) is attached AFTER the on-line application has been submitted, it will not be available to the City and applicants WILL NOT be credited with having submitted the certificate(s). Applicants who fail to submit the certificate(s) at the time of filing by not attaching it to the on-line application will not be considered for this part of selective certification.
+
+WHERE TO APPLY
+
+Applications will only be accepted on-line. When you are viewing the on-line job bulletin of your choice, simply scroll to the top of the page and select the "Apply" icon. On-line job bulletins are also available at https://www.governmentjobs.com/careers/lacity for Open Competitive Examinations and at https://www.governmentjobs.com/careers/lacity/promotionaljobs for Promotional Examinations.
+
+NOTE:
+
+Applicants are urged to apply early to ensure you have time to resolve any technical issues you may encounter.
+
+APPLICATION DEADLINE
+
+The examination may close without prior notice at any time after a sufficient number of applications have been received. For administrative purposes, filing may close periodically and reopen periodically.
+
+In accordance with Civil Service Rule 4.2, all applicants who apply may not be tested in this examination. To meet anticipated hiring needs, only a limited number of qualified applicants will be invited to participate in the weighted multiple-choice test in the following order: 1) Los Angeles City Promotional applicants who meet the minimum requirements. You must have received a regular appointment to a City position or be on a reserve list to apply for this examination as a promotional candidate; 2) Applicants currently employed by the City of Los Angeles on a part-time or exempt basis who meet the minimum requirements; 3) Remaining applicants who meet the minimum requirements in sufficient numbers to meet hiring needs in the order that applications were received. Applications submitted during the filing period will be kept on file for two years from the date of filing in the event that additional applicants need to be tested to meet hiring needs.
+SELECTION PROCESS
+
+After meeting minimum qualifications, and in accordance with Rule 4.2 as stated above, candidates will be scheduled for the following:
+
+Examination Weight: Multiple-Choice Test . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100%
+		
+The examination will consist entirely of a weighted multiple-choice test administered and proctored online. In the online multiple-choice test, the following competencies may be evaluated: Analytical Ability, Interpersonal Skills, Teamwork, Written Communication, and Technology Application, including: office productivity tools and/or software; local area network (LAN) configurations and communication protocols; computer hardware and their use, networking devices, and software tools; various operating systems including their use, interoperability, capabilities, and limitations; basic principles and concepts of database design; systems development life cycle (SDLC) methodology including the associated steps and phases; cloud-based computing services and their use; disaster recovery systems, procedures, and/or best practices; Information Technology Service Management (ITSM) frameworks and methodologies; and other necessary skills, knowledge, and abilities.
+
+Additional information can be obtained by going to http://per.lacity.org/index.cfm?content=jobanalyses and clicking on Competencies under Systems Analyst.
+
+The multiple-choice test will be proctored and administered on-line during a single session. Candidates invited to participate in the online multiple-choice test will be able to take the test from any location using a computer with a webcam and a reliable internet connection. Candidates will receive an email from the City of Los Angeles outlining the dates and specific steps on how to take the multiple-choice test on-line. It is anticipated that candidates invited to participate in the first administration of the weighted multiple-choice test will be able to take the multiple-choice test online starting SATURDAY, JANUARY 6, 2018 THROUGH SATURDAY, JANUARY 13, 2018. Candidates who do not complete and submit the multiple-choice test on-line by SATURDAY, JANUARY 13, 2018 at 11:59 p.m., Pacific Standard Time, will not be considered further in this examination. Additional test dates may be added as needed.
+
+
+NOTES:	
+
+1. This examination is based on a validation study, and as provided by Civil Service Commission Rule 4.20, the multiple-choice test will not be subject to candidate inspection.
+2. As a covered entity under the Fair Employment and Housing Act and Title II of the Americans with Disabilities Act, the City of Los Angeles does not discriminate on the basis of disability and upon request, will provide reasonable accommodations to ensure equal access to its programs, services, and activities.  To request a disability accommodation, please complete the Disability Accommodation Form within 14 calendar days of the submittal of the City application.  The Disability Accommodation Form can be obtained at http://per.lacity.org/exams/verify_disability.pdf.
+3. A final average score of 70% or higher is required to be placed on the eligible list.
+4. Applications are accepted subject to review to ensure that minimum qualifications are met. Candidates may be disqualified at any time if is determined that they do not possess the minimum qualifications stated on this bulletin.
+5. In accordance with Civil Service Rule, Sec. 4.24, review periods may be combined. Candidates in the examination process may file protests as provided in Sec. 4.20, 4.22 and 4.23 as applicable and within the required time frame; however, the Personnel Department may respond to and resolve protests prior to the establishment of the eligible list.
+6. In conjunction with Civil Service Rules, applicants who have received a regular appointment to a City position or are on a reserve list will be considered Promotional candidates while all other applicants will be considered Open candidates.
+7. The promotional list will ordinarily be used ahead of the open competitive list. However, if open competitive candidates receive a higher score, without military credits, than the highest available promotional candidate, after adding 0.25 of a point seniority credit for each year of continuous classified City service, the Civil Service Commission, upon request of the appointing authority, may approve certification of such open competitive candidates ahead of the promotional candidates.
+8. You may take this examination only once every 365 days. Your name may be removed from the eligible list after six (6) months.
+9. Your rank on the employment list may change as scores of candidates from other administrations of this examination are merged onto one list.
+
+
+NOTICE: 
+
+If you receive and accept an offer of employment to a regular position with the City of Los Angeles, your employee benefit coverage (including health and dental coverage as well as life insurance) will commence approximately six weeks after your original regular appointment. Not all positions in the City receive benefit coverage; you should inquire regarding the availability of employee benefits prior to accepting a position.
+THIS EXAMINATION IS TO BE GIVEN BOTH ON AN
+INTERDEPARTMENTAL PROMOTIONAL AND AN OPEN COMPETITIVE BASIS
+
+The City of Los Angeles does not discriminate on the basis of race, religion, national origin, sex, age, marital status, sexual orientation, gender identity, gender expression, disability, creed, color, ancestry, medical condition (cancer), or Acquired Immune Deficiency Syndrome.
+Class Code 1596 CONT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10-27-17
+
+
+AN EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+For additional information and FAQs regarding the City's hiring process, please go to: http://per.lacity.org/index.cfm?content=employmenttestingprocess
+

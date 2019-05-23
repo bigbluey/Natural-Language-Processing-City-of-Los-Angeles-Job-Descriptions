@@ -1,0 +1,96 @@
+APPLICATIONS PROGRAMMER
+
+Class Code:       1429
+Open Date:  06-29-18
+ (Exam Open to All, including Current City Employees)
+
+ANNUAL SALARY
+
+$58,986 to $86,255
+The salary in the Department of Water and Power is $65,417 to $81,285; $75,648 to $93,980.
+
+NOTES:
+
+1. Annual salary is the beginning of the pay range. The current salary range is subject to change. Please confirm the starting salary with the hiring department before accepting a job offer.
+2. For information regarding reciprocity between the City of Los Angeles departments and LADWP, go to http://per.lacity.org/Reciprocity_CityDepts_and_DWP.pdf.
+3. Candidates from the eligible list are normally appointed to vacancies in the lower pay grade positions.
+
+DUTIES 
+
+An Applications Programmer prepares programs by analyzing specifications developed by systems professionals; determines computer processing requirements; develops systems and/or programming flowcharts, codes programs and/or integrates and enhances Commercial Off the Shelf (COTS) software solutions; tests, debugs, and corrects errors in programs; prepares program and systems documentation; assists in analyzing and resolution of computer systems problems; and performs basic network configuration, scripting, network and implementation tasks; maintains configuration databases and related processing; write SQL queries and distribute routine reporting for RDBMS; and performs other related duties.
+
+REQUIREMENTS/MINIMUM QUALIFICATIONS
+
+1. Graduation from an accredited four-year college or university with completion of 24 semester or 36 quarter units in either information systems, computer engineering, or computer science; or
+2. Successful completion of a two-year course of study in information technology (IT) from an accredited college or trade school with at least 12 semester or 18 quarter units in IT coursework and two years of full-time paid experience performing systems or programming tasks in a professional IT environment.
+
+PROCESS NOTES 
+
+1. Applicants must list in the Supplemental Questions section of the on-line application IT coursework, including courses taken in information systems, computer engineering or computer science. Applicants must list the course title, the number of units (semester or quarter), date completed, the name of the school, and the grade received. For classes in which applicants are currently enrolled, applicants will need to list the course title, the number of units (semester or quarter), anticipated completion date, and the name of the school. General education course and elective units taken outside of the specified major/areas need not be listed. We recommend that applicants have their course work information at hand before going online to file their applications.
+2. Employment as an Applications Programmer is limited to a maximum of three years, during which time employees are required to promote to other City classes. 
+3. Please note that qualifying education must be from a college or university accredited by a City of Los Angeles recognized agency. A list of approved accrediting agencies can be found at http://per.lacity.org/Accredited%20Institutions%2008-21-08.pdf. 
+4. Applicants completing the exam process will be contacted by the Personnel Department to provide required proof of qualifying four-year degree.
+
+WHERE TO APPLY
+
+Applications will only be accepted on-line. When you are viewing the on-line job bulletin of your choice, simply scroll to the top of the page and select the "Apply" icon. On-line job bulletins are also available at https://www.governmentjobs.com/careers/lacity for Open Competitive Examinations.
+
+NOTE:
+
+Applicants are urged to apply early to ensure you have time to resolve any technical issues you may encounter
+
+APPLICATION DEADLINE
+
+Applications will only be accepted on-line on the dates listed below: 
+
+From 8:00 am Tuesday, July 10, 2018 to 11:59 pm, Tuesday, July 17, 2018
+From 8:00 am Tuesday, September 11, 2018 to 11:59 pm, Tuesday, September 18, 2018
+From 8:00 am Tuesday, November 13, 2018 to 11:59 pm, Tuesday, November 20, 2018
+From 8:00 am Tuesday, January 8, 2019 to 11:59 pm, Tuesday, January 15, 2019
+From 8:00 am Tuesday, March 12, 2019 to 11:59 pm, Tuesday, March 19, 2019
+From 8:00 am Tuesday, May 14, 2019 to 11:59 pm, Tuesday, May 21, 2019
+From 8:00 am Tuesday, July 9, 2019 to 11:59 pm, Tuesday, July 16, 2019
+
+The examination may close without prior notice at any time after a sufficient number of applications have been received. Filing periods may change without prior notice or additional dates may be added, as needed, at a later date. For administrative purposes, filing will close periodically and reopen on the dates noted in the "Application Deadline" section of this bulletin.
+
+In accordance with Civil Service Rule 4.2, all applicants who apply may not be tested in this examination. To meet anticipated hiring needs, only a limited number of qualified applicants will be invited to participate in the Multiple-Choice Test in the following order: 1) Applicants currently employed by the City of Los Angeles who meet the minimum requirements, or are on a reserve list; 2) Remaining applicants who meet the minimum requirements in sufficient numbers to meet hiring needs based on a random sampling of those qualified applicants. 
+
+SELECTION PROCESS 
+
+
+Examination Weight:  Written Test . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100%
+
+The examination will consist entirely of a multiple-choice test administered on a computer. In the multiple-choice test, the following competencies may be evaluated: Reading Comprehension, Fact Finding, Interpersonal Skills, Mathematics, Written Communication, and Job Knowledge, including knowledge of: structured programming and object oriented techniques such as sequence, selection, iteration, encapsulation and data abstraction; terminology necessary to read, understand, and accurately follow program specifications; software standard products such as databases, spreadsheets, utility programs, and graphics to create and maintain databases, graphs, and spreadsheets; how to program and maintain code in an object oriented language such as Java, C++, .NET, JavaScript, PHP, or C#; database concepts and design requirements such as database structure for programming purposes, data relationships, and access techniques; phases of the entire system development life cycle; problem tracking and/or debugging software tools and techniques to assess problems and troubleshoot within an application; concepts of systems analysis and design as related to the development of operating and networking systems and other necessary skills, knowledge, and abilities.
+
+Additional information can be obtained by going to http://per.lacity.org/index.cfm?content=jobanalyses and clicking on Competencies under Applications Programmer.
+
+The multiple-choice test will be proctored and administered on-line during a single session. Candidates invited to participate in the online multiple-choice test will be able to take the test from any location using a computer with a webcam and a reliable internet connection. Candidates will receive an email from the City of Los Angeles outlining the dates and specific steps on how to take the multiple-choice test on-line. It is anticipated that candidates invited to participate in the first administration of the weighted multiple-choice test will be able to take the multiple-choice test online beginning in SEPTEMBER 2018. Candidates who do not complete and submit the remote proctored multiple-choice test on-line using a computer by the specified date and time will not be considered further in this examination. Additional test dates may be added as needed.
+
+NOTES:	
+
+1. This examination is based on a validation study, and as provided by Civil Service Commission Rule 4.20, the multiple-choice test will not be subject to candidate inspection.
+2. As a covered entity under the Fair Employment and Housing Act and Title II of the Americans with Disabilities Act, the City of Los Angeles does not discriminate on the basis of disability and upon request, will provide reasonable accommodations to ensure equal access to its programs, services, and activities. To request a disability accommodation, please complete the Disability Accommodation Form within 14 calendar days of the submittal of the City application. The Disability Accommodation Form can be obtained at http://per.lacity.org/exams/verify_disability.pdf.
+3. Applications are accepted subject to review to ensure that minimum qualifications are met. Candidates may be disqualified at any time if it is determined that they do not possess the minimum qualifications stated on this bulletin.
+4. A final average score of 70% is required to be placed on the eligible list.
+5. In accordance with Civil Service Rule, Sec. 4.24, review periods may be combined. Candidates in the examination process may file protests as provided in Sec. 4.20, 4.22 and 4.23 as applicable and within the required time frame; however, the Personnel Department may respond to and resolve protests prior to the establishment of the eligible list.
+6. You may take this examination only once every 365 days. Your name may be removed from the eligible list after 365 days.
+7. Your rank on the employment list may change as scores of candidates from other administrations of the examination are merged onto one list.
+
+Notice:
+
+If you receive and accept an offer of employment to a regular position with the City of Los Angeles, your employee benefit coverage (including health and dental coverage as well as life insurance) will commence approximately six weeks after your original regular appointment. Not all positions in the City receive benefit coverage; you should inquire regarding the availability of employee benefits prior to accepting a position.
+
+THIS EXAMINATION IS TO BE GIVEN ONLY
+ON AN OPEN COMPETITIVE BASIS
+
+The City of Los Angeles does not discriminate on the basis of race, religion, national origin, sex, age, marital status, sexual orientation, gender identity, gender expression, disability, creed, color, ancestry, medical condition (cancer), or Acquired Immune Deficiency Syndrome.
+Class Code 1429 CONT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 06-29-18
+
+
+AN EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+For additional information and FAQs regarding the City's hiring process, please go to: http://per.lacity.org/index.cfm?content=employmenttestingprocess
+
+Class Code 1429 CONT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .06-29-18
+
+AN EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER
+
