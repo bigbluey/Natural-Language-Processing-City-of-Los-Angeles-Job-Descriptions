@@ -33,23 +33,27 @@ Help the City of Los Angeles to Structure and Analyze its Job Descriptions Using
 
 Tokenize: 
 * Break up strings into small structures/units to understand the importance of each word with respect to the sentence
-![](Images/tokenize.png)
 
+![](Images/tokenize.png)
 
 Stop-Words: 
 * Commonly used words (such as "and", "the", "a", "an", and similar words) that are irrelevant and have very little meaning
+
 ![](Images/stop_words.png)
 
 Regular Expressions: 
 * Filter ReGex only and remove symbols and characters
+
 ![](Images/regex.png)
 
 POS Tagging: 
 * Assigning tags to a single word according to its role in the sentence (i.e Verb, Noun, Adjective and etc.
+
 ![](Images/regex.png)
 
 FreqDist():
 * Determine Frequency Distribution of the words in the corpus
+
 ![](Images/frequency_plot.png)
 
 
@@ -59,6 +63,7 @@ Readability Index:
 * Readability is the ease with which a reader can understand a written text
 * In natural language, the readability of text depends on its content (the complexity of its vocabulary and syntax)
     * It focuses on the words we choose, and how we put them into sentences and paragraphs for the readers to comprehend
+
 ![](Images/regex.png)
 
 ### Process III
@@ -67,6 +72,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency):
 * A technique to quantify a word in documents to determine the importance of the word in the document (corpus)
 * Works by increasing proportionally to the number of times a word appears in a document, but is offset by the number of documents that contain the word
     * So, words that are common in every document, such as this, what, and if, rank low even though they may appear many times, since they don’t mean much to that document in particular
+
 ![](Images/tf-idf.png)
 
 
