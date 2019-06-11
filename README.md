@@ -52,7 +52,7 @@ POS Tagging:
 ![](Images/regex.png)
 
 FreqDist():
-* Determine Frequency Distribution of the words in the corpus
+* Determine Frequency Distribution of the words in the corpus after filtering out only Nouns
 
 ![](Images/frequency_plot.png)
 
