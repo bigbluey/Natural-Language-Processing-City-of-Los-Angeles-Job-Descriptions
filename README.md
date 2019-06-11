@@ -1,7 +1,6 @@
 # Natural Language Processing City of Los Angeles Job Descriptions
 
-"Choose a job you love, and you will never have to work a day in your life"
-- Confucius
+"Choose a job you love, and you will never have to work a day in your life" - Confucius
 
 ## Background
 
