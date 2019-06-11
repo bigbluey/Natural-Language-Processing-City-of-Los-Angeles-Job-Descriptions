@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" 
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" 
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="static/stylesheets/style.css">
+    <link rel="icon" href="static/images/favicon.ico">
+</head>
+<body>
+    <div class="container-fluild">
+        <div class="shadow mb-5 bg-white rounded">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <img src="https://www.governmentjobs.com/AgencyPages/lacity/agencyImages/download/logo%20no%20back.png"
+                alt="City of Los Angeles" style="width:100px;height:100px;"> 
+                <a class="navbar-brand" href="#">City of Los Angeles</a>
+                
+                <div class="collapse navbar-collapse justify-content-end">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <button class="btn btn-dark btn1" id="button" type="submit">Job Desription Analyzer</button>
+                            <button class="btn btn-dark btn1" id="button" type="submit">Our Findings</button>
+                            <button class="btn btn-dark btn1" id="button" type="submit">Create an Account</button>
+                            <button class="btn btn-dark btn4" id="button" type="submit">Contact Us</button>
+                        </li>
+                    <!-- Search -->
+                    <!-- </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-dark" type="submit">Search</button>
+                    </form> -->
+                </div>
+            </nav>
+        </div>
+
+        <div class="shadow mb-5 bg-white rounded" >
+            <div class="container-fluid" id="about">
+                <div class="blurred-bg-container">
+                        <div class="content">
+                            <div class="text">
+                                <h3 class="about-header">About</h3>
+                                <h5 class="about-header2">This project is about helping and improving the city of Los Angeles, CA. We aim to pursure analyzing hundreds of 
+                                    job postings from around the city and create new and interesting insights that could lead future city-folk down a more appraochable
+                                    and enjoyable path towards employment.
+                            </div>
+                            <div class="blur"></div>
+                        </div>
+                    </div>
+                </h5>
+            </div>
+        </div>
+
+        <div id="collection">
+        <div class="container" id="firstrow">
+            <div class="col-sm-12" id="row1">
+                <div class="jumbotron mt-3">
+                    <h1>Analyze a New Job Posting</h1>
+                    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" id="subbox"> 
+                        <p>Choose a file:</p>
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <label class="input-group-text" for="inputGroupSelect01">File</label>
+                            </div>
+                            <!-- <select class="custom-select" id="inputGroupSelect01">
+                                <option selected>Choose...</option>
+                                <option value="1">One</option>
+                                <option value="2">Two</option>
+                                <option value="3">Three</option>
+                            </select> -->
+                            <select id="selDataset" onchange="optionChanged(this.value)"> <option selected>Choose one... </option></select>
+                            <button type="button" class="btn btn-primary btn-lg genbtn" id="btn-3">Random</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="mb-4">
+        <div class="container">
+        <!-- <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="same-address">
+            <label class="custom-control-label" for="same-address">Check if want to appy.</label>
+        </div> -->
+        <div class="container" id="midrow">
+            <div class="col-sm-12" id="row5">
+                <div class="jumbotron mt-3">
+                    <h1>Want to find a job?</h1>
+                    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" id="subbox"> 
+                        <p>Filter your options below (Check if apply):</p>
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="same-address">
+                            <br>
+                            <label class="custom-control-label" for="same-address">I don't mind working outside.</label>
+                        </div>
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="same-address2" disabled>
+                            <br><br>
+                            <label class="custom-control-label" for="same-address2" id="option2">I don't mind working during the evenings/nights.</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 
+              </div> -->
+        </div>
+        <hr class="mb-4">
+        <div class="container" id="secondrow">
+                <div class="col-sm-12" id="row1">
+                    <!-- <hr> -->
+                    <div class="jumbotron mt-3">
+                        <h1>Generate Data Analysis</h1>
+                        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" id="subbox-2"> 
+                            <button type="button" class="btn btn-dark btn-lg genbtn" id="btn-2">Generate!</button>
+                            <!-- <button class="btn btn-primary" type="button" disabled>
+                                <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                Loading...
+                            </button> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="row" id="graph">
+                    <div class="col-xs-12  col-md-9">
+                      <div id="scatter">
+                        <!-- We append our chart here. -->
+                      </div>
+                    </div>
+                </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="shadow mb-5 bg-white rounded">
+    <footer class="blog-footer">
+        <img class="mb-2" src="https://cdn.bleacherreport.net/images/team_logos/328x328/cal_bears_football.png" alt="berkeley" width="48" height="48">
+        <small class="d-block mb-3 text-muted">© UC Berkeley Extension 2019</small>
+    </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>
