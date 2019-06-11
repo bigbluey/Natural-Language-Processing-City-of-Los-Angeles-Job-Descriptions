@@ -93,6 +93,17 @@ Decisions, Decisions
 * Once we had the data  and started cleaning it, we then needed to decide how to use NLP in an effective way
 * After reading the Job Bulletins, the problems were obvious, but how can we show that conclusively with the data
 
+## Dashboard
+
+![](Images/index_html.png)
+
+![](Images/analyze_posting.png)
+
+![](Images/find_job.png)
+
+![](Images/generate_analysis.png)
+
+
 ## Conclusions
 
 Word Counts
